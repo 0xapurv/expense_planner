@@ -11,10 +11,6 @@ A new Flutter application to get track of your daily expenses. Enable you to tra
 ### Add Expenses
 <img src="Add Expenses.png" height="500em" />
 
-### Add Expenses
-<img src="Add Expenses.png" height="500em" />
-
-
 ### Pick a date
 <img src="Pick a date.png" height="500em" />
 
