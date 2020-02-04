@@ -5,7 +5,8 @@ A new Flutter application to get track of your daily expenses. Enable you to tra
 
 ## Screenshots
 
-### Initial State<img src="Initial State.png" height="500em" />
+### Initial State
+<img src="Initial State.png" height="500em" />
 ### Add Expenses<img src="Add Expenses.png" height="500em" /><img src="Pick a date.png" height="500em" /><img src="expenses list and bar charts.png" height="500em" /><img src="Add as many transactions.png" height="500em" />
 
 
